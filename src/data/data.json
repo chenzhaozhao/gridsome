@@ -1,0 +1,56 @@
+{
+    "title": "Simplicity. Aesthetics. Value.",
+    "des": "Hi there, I'm an independent Digital Designer & Art Director focused on digital design for brands that like to have fun.",
+    "project": [
+        {
+            "url": "banana",
+            "id":"1",
+            "name": "Banana",
+            "category": "photography",
+            "color": "pink"
+        },
+        {
+            "url": "pineapple",
+            "name": "Pineapple",
+            "id":"2",
+            "category": "photography",
+            "color": "blue"
+        },
+        {
+            "url": "icecream",
+            "name": "Ice Cream",
+            "id":"3",
+            "category": "photography",
+            "color": "yellow"
+        },
+        {
+            "url": "porta",
+            "name": "Porta400",
+            "id":"4",
+            "category": "photography",
+            "color": "yellow"
+        }
+    ],
+    "journal": [
+        {
+            "name": "Gridsome with Forestry CMS",
+            "num": "1",
+            "id":"1"
+        },
+        {
+            "name": "VueJS for your next project",
+            "num": "2",
+            "id":"2"
+        },
+        {
+            "name": "macOS development environment",
+            "num": "3",
+            "id":"3"
+        },
+        {
+            "name": "About Typography",
+            "num": "4",
+            "id":"4"
+        }
+    ]
+}
